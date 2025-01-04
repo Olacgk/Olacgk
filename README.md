@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Olacgk
-- 👀 I’m interested in Database, Web and Mobile development and also cybersecurity
+- 👀 I’m interested in Database, Web and Mobile development 
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on development opensource project
 - 📫 How to reach me theotimechognika@gmail.com 
